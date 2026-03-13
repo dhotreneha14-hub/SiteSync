@@ -18,9 +18,9 @@ A responsive React.js web application for construction field teams to manage pro
   - Interactive fullscreen photo viewing model.
   - Ability to delete reports.
 - **Responsive Design**: Works seamlessly on Mobile (375px), Tablet (768px), and Desktop (1280px+).
-- **Dark Mode Toggle** ⭐: A persistent Sun/Moon toggle available on every page. Switches between full dark and light themes; preference is saved to `localStorage` and survives page refreshes.
-- **Project Filter & Search** ⭐: Real-time text search combined with a dropdown status filter on the Project Dashboard to quickly find any project.
-- **Animated Transitions** ⭐: Smooth page mounts, list pop-in effects, and modal animations powered by `framer-motion`.
+- **Dark Mode Toggle**: A persistent Sun/Moon toggle available on every page. Switches between full dark and light themes; preference is saved to `localStorage` and survives page refreshes.
+- **Project Filter & Search**: Real-time text search combined with a dropdown status filter on the Project Dashboard to quickly find any project.
+- **Animated Transitions**: Smooth page mounts, list pop-in effects, and modal animations powered by `framer-motion`.
 - **Tech Stack**:
   - React.js 19
   - Vite (Fast Build Tool)
